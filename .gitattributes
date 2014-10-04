@@ -1,0 +1,7 @@
+# Use default behaviour for most files
+* text=auto
+
+# Force CRLF for VB6 files
+*.bas text eol=crlf
+*.frm text eol=crlf
+*.vbp text eol=crlf

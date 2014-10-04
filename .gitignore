@@ -1,0 +1,6 @@
+# GIT Ignores for VB projects
+*.vbw
+*.log
+*.exe
+*.msi
+*.suo
